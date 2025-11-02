@@ -56,3 +56,5 @@ Here are some planned features and enhancements that can make the Employee Manag
 Developed by Pravin
 Student of Robotics and Artificial Intelligence (JC BOSE University of Science and Technology)
 Interested in Full Stack Development and Ethical Hacking
+
+## Note : Before using it please change your MySQL localhost Port and password.
